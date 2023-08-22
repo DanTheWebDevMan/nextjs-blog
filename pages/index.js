@@ -14,7 +14,7 @@ export default function Home() {
           For more details on my background, check out my {' '}
           <a href="https://www.linkedin.com/in/dannielzelaya/">LinkedIn page </a>.
         </p>
-        <p>Hire me and you won't regret it :) </p>
+        <p>Please hire me as your next CSM, I promise to work my hardest. You won't regret it :) </p>
       </section>
     </Layout>
   );
